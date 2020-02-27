@@ -1,0 +1,6 @@
+[submodule "GraphEmbedding"]
+	path = GraphEmbedding
+	url = https://github.com/shenweichen/GraphEmbedding
+[submodule "GEM"]
+	path = GEM
+	url = https://github.com/palash1992/GEM
